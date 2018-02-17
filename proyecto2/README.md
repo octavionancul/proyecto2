@@ -22,3 +22,9 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+crear nuevo campo
+
+rails g migration addContentToColor content:string
+agregar campo en index, show, _form, product.json y parametros del controller
